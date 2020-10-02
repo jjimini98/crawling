@@ -1,3 +1,7 @@
 # crawling
 crawling soonchunhyang university homepage 
-use beautifulsoup4 
+
+
+
+- beautifulsoup4 
+- requests 
