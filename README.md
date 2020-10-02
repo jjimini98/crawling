@@ -3,5 +3,7 @@ crawling soonchunhyang university homepage
 
 
 
-- beautifulsoup4 
-- requests 
+- IDE : pycharm professional 2020.2
+- language : python 3.8
+- package : beautifulsoup4 
+- package : requests 
