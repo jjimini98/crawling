@@ -5,11 +5,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="baaa2d32-c65e-45e9-9fdc-6730845705b2" name="Default Changelist" comment="delete hotels_reviews.zip file because file size is very large">
-      <change afterPath="$PROJECT_DIR$/hotel_review/EDA.py" afterDir="false" />
+    <list default="true" id="baaa2d32-c65e-45e9-9fdc-6730845705b2" name="Default Changelist" comment="proceeding EDA">
       <change afterPath="$PROJECT_DIR$/hotel_review/hotels_reviews.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hotel_review/EDA/EDA.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <list id="57f45ee3-81a5-4936-9308-94262583cc8c" name="make new directory &quot;hotel_review&quot; and upload hotel_review.csv data" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -246,7 +244,7 @@
       <workItem from="1602597496653" duration="725000" />
       <workItem from="1602598228746" duration="696000" />
       <workItem from="1602599018965" duration="692000" />
-      <workItem from="1602608735947" duration="6278000" />
+      <workItem from="1602608735947" duration="6637000" />
     </task>
     <task id="LOCAL-00001" summary="soonchunhyang university libaray crawling">
       <created>1601392162869</created>
@@ -374,7 +372,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602601673497</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="proceeding EDA">
+      <created>1602617408647</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1602617408647</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -427,7 +432,8 @@
     <MESSAGE value="move file and directory" />
     <MESSAGE value="make new directory &quot;hotel_review&quot; and upload hotel_review.csv data" />
     <MESSAGE value="delete hotels_reviews.zip file because file size is very large" />
-    <option name="LAST_COMMIT_MESSAGE" value="delete hotels_reviews.zip file because file size is very large" />
+    <MESSAGE value="proceeding EDA" />
+    <option name="LAST_COMMIT_MESSAGE" value="proceeding EDA" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="53" key="#Plugins" timestamp="1602495633673">
@@ -511,10 +517,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="807" y="432" key="VCS.ChangelistChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1602601626735" />
-    <state x="451" y="183" key="Vcs.Push.Dialog.v2" timestamp="1602601683615">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1602617414570">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602338695263" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602617414570" />
     <state x="451" y="183" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602601683615" />
     <state x="775" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602598849899">
       <screen x="0" y="0" width="1920" height="1040" />
