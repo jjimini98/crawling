@@ -9,7 +9,7 @@ html= req.text
 
 li = []
 soup = BeautifulSoup(html,'html.parser')
-name = soup.select('#jwxe_main_content > div.jwxe_root > div.jwxe_html > h3 > img')
+name = soup.select('#jwxe_main_content > div.jwxe_root > div.jwxe_html > h3 ')
 introduction = soup.select('#jwxe_main_content > div.jwxe_root > div.jwxe_div > div:nth-child(1) > div > p')
 contents = soup.select('#jwxe_main_content > div.jwxe_root > div.jwxe_div > div:nth-child(2)')
 
