@@ -1,4 +1,4 @@
-# textmining project 
+# textmining project in Github
 
 1. crawling soonchunhyang university homepage and everytime, soonchunhyang university homepage
 2. EDA hotel_review data 
