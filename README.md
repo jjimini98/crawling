@@ -1,5 +1,5 @@
-# crawling
-crawling soonchunhyang university homepage 
+# textmining project 
+crawling soonchunhyang university homepage and everytime, soonchunhyang university homepage
 
 
 
@@ -7,3 +7,4 @@ crawling soonchunhyang university homepage
 - language : python 3.8
 - package : beautifulsoup4 
 - package : requests 
+- package : selenium, webdriver= 'chrome'
