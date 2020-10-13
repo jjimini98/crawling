@@ -1,0 +1,707 @@
+<div class="jwxe_html" style="left:0px;top:27px;width:191px;height:33px;">
+<h1>
+<a href="http://www.sch.ac.kr"><img alt="SCH 순천향대학교" src="/sch/_res/img/logo.gif"/></a></h1>
+</div>
+<div class="jwxe_text" style="left:0px; height:auto; min-height:0px; width:auto; min-width:100px; ">
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								1. 자료의 구입 및 기증업무
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							</div>
+<div class="jwxe_html" id="menuView0" style="left:235px;top:90px;width:680px;height:265px;">
+<img alt="전체메뉴보기" src="/sch/_res/img/img_all_menu.gif" usemap="#Map"/>
+<map id="Map" name="Map">
+<area alt="순천향안내" coords="20,15,68,26" href="/sch/01/01010201.jsp" shape="rect"/>
+<area alt="학교상징" coords="20,29,58,40" href="/sch/01/01020100.jsp" shape="rect"/>
+<area alt="현황" coords="20,43,40,54" href="/sch/01/01030100.jsp" shape="rect"/>
+<area alt="대학홍보" coords="20,57,58,68" href="/sch/01/01040100.jsp" shape="rect"/>
+<area alt="대학입학" coords="120,15,161,26" href="/sch/02/02010000.jsp" shape="rect"/>
+<area alt="수시모집" coords="120,29,159,40" href="http://ipsi.sch.ac.kr/" shape="rect" target="_blank" title="새창"/>
+<area alt="정시모집" coords="120,43,159,54" href="http://ipsi.sch.ac.kr/" shape="rect" target="_blank" title="새창"/>
+<area alt="편입학" coords="120,57,150,68" href="http://ipsi.sch.ac.kr/" shape="rect" target="_blank" title="새창"/>
+<area alt="대학원입학" coords="120,71,171,81" href="/sch/02/02020000.jsp" shape="rect"/>
+<area alt="평생교육원" coords="120,85,171,96" href="/sch/02/02030000.jsp" shape="rect"/>
+<area alt="단과대학" coords="227,15,267,26" href="/sch/03/03011400.jsp" shape="rect"/>
+<area alt="향설나눔대학" coords="227,29,286,40" href="/sch/03/03011200.jsp" shape="rect"/>
+<area alt="SCH미디어랩스" coords="227,43,298,54" href="/sch/03/03011400.jsp" shape="rect"/>
+<area alt="인문사회과학대학" coords="227,57,286,68" href="/sch/03/03010100.jsp" shape="rect"/>
+<area alt="글로벌경영대학" coords="227,85,295,96" href="/sch/03/03011100.jsp" shape="rect"/>
+<area alt="자연과학대학" coords="227,99,286,110" href="/sch/03/03010300.jsp" shape="rect"/>
+<area alt="공과대학" coords="227,113,267,124" href="/sch/03/03010400.jsp" shape="rect"/>
+<area alt="의료과학대학" coords="227,127,286,138" href="/sch/03/03010500.jsp" shape="rect"/>
+<area alt="의과대학" coords="227,141,267,151" href="/sch/03/03010600.jsp" shape="rect"/>
+<area alt="산학평생대학" coords="227,159,286,169" href="/sch/03/03011300.jsp" shape="rect"/>
+<area alt="대학원" coords="227,173,257,183" href="/sch/03/03020100.jsp" shape="rect"/>
+<area alt="일반대학원" coords="227,187,275,197" href="/sch/03/03020100.jsp" shape="rect"/>
+<area alt="교육대학원" coords="227,201,275,211" href="/sch/03/03020300.jsp" shape="rect"/>
+<area alt="건강과학대학원" coords="227,215,294,225" href="/sch/03/03020400.jsp" shape="rect"/>
+<area alt="법과학대학원" coords="227,229,286,239" href="/sch/03/03020700.jsp" shape="rect"/>
+<area alt="기술경영행정대학원" coords="227,243,314,253" href="/sch/03/03020800.jsp" shape="rect"/>
+<area alt="대학본부" coords="359,15,398,25" href="/sch/04/04010100.jsp" shape="rect"/>
+<area alt="산학/연구" coords="359,29,401,39" href="/sch/04/04050100.jsp" shape="rect"/>
+<area alt="부속/부설기관" coords="359,43,420,53" href="/sch/04/04060100.jsp" shape="rect"/>
+<area alt="부속병원" coords="359,57,397,71" href="/sch/04/04070000.jsp" shape="rect"/>
+<area alt="학사일정" coords="476,15,514,25" href="/sch/05/05010000.jsp" shape="rect"/>
+<area alt="AnyQ" coords="476,29,502,40" href="/sch/05/05030000.jsp" shape="rect"/>
+<area alt="새소식" coords="476,43,503,54" href="/sch/05/05040100.jsp" shape="rect"/>
+<area alt="전화번호검색" coords="476,57,533,67" href="/sch/05/05050000.jsp" shape="rect"/>
+<area alt="메일검색" coords="476,71,514,81" href="/sch/05/05060000.jsp" shape="rect"/>
+<area alt="학생복지" coords="476,85,514,95" href="/sch/05/05070101.jsp" shape="rect"/>
+<area alt="학생자치기구" coords="476,99,534,109" href="/sch/05/05080100.jsp" shape="rect"/>
+<area alt="공지사항" coords="591,15,631,25" href="/sch/06/06010000.jsp" shape="rect"/>
+<area alt="입찰공고" coords="591,29,631,39" href="/sch/06/06020000.jsp" shape="rect"/>
+<area alt="자유게시판" coords="591,43,640,53" href="/sch/06/06030000.jsp" shape="rect"/>
+<area alt="벼룩시장" coords="591,57,631,67" href="/sch/06/06040000.jsp" shape="rect"/>
+<area alt="닫기" coords="640,245,662,256" onclick="javascript:toggle('0')" shape="rect" style="cursor:pointer;"/>
+</map> </div>
+<div class="jwxe_text" style="left:0px; top:20px; height:auto; min-height:15px; width:auto; min-width:100px; ">
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								2. 희망도서 구입 및 신청
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							</div>
+<div class="jwxe_html" id="menuView1" style="left:193px;top:90px;width:810px;height:230px;">
+<img alt="학과/전공보기" src="/sch/_res/img/img_dept.gif" usemap="#Map2"/>
+<map id="Map2" name="Map2">
+<area alt="SCH미디어랩스" coords="18,23,91,34" href="/sch/03/03011400.jsp" shape="rect"/>
+<area alt="한국문화콘텐츠학과" coords="18,42,99,53" href="http://labs.sch.ac.kr/department/kcontents.php" shape="rect" target="_blank"/>
+<area alt="영미학과" coords="18,56,55,67" href="http://labs.sch.ac.kr/department/eng.php" shape="rect" target="_blank"/>
+<area alt="중국학과" coords="18,70,55,81" href="http://labs.sch.ac.kr/department/china.php" shape="rect" target="_blank"/>
+<area alt="미디어커뮤니케이션학과" coords="18,84,116,95" href="http://labs.sch.ac.kr/department/media-communication.php" shape="rect" target="_blank"/>
+<area alt="건축학과" coords="18,98,55,109" href="http://labs.sch.ac.kr/department/architecture.php" shape="rect" target="_blank"/>
+<area alt="디지털애니메이션학과" coords="18,112,108,123" href="http://labs.sch.ac.kr/department/digital-animation.php" shape="rect" target="_blank"/>
+<area alt="빅데이터학과" coords="18,126,81,137" href="http://labs.sch.ac.kr/department/bigdata.php" shape="rect" target="_blank"/>
+<area alt="사물인터넷학과" coords="18,140,81,151" href="http://labs.sch.ac.kr/department/iot.php" shape="rect" target="_blank"/>
+<area alt="스마트자동차학과" coords="18,154,90,166" href="http://labs.sch.ac.kr/department/smart-car.php" shape="rect" target="_blank"/>
+<area alt="에너지시스템학과" coords="18,168,90,178" href="http://labs.sch.ac.kr/department/energy-system.php" shape="rect" target="_blank"/>
+<area alt="공연영상학과" coords="18,182,73,193" href="http://labs.sch.ac.kr/department/film-theater.php" shape="rect" target="_blank"/>
+<area alt="인문과학대학" coords="137,23,196,34" href="/sch/03/03010100.jsp" shape="rect"/>
+<area alt="국어국문학과" coords="137,42,191,53" href="/sch/03/03010101.jsp" shape="rect"/>
+<area alt="영어영문학과" coords="137,56,191,67" href="/sch/03/03010102.jsp" shape="rect"/>
+<area alt="중어중문학과" coords="137,70,191,81" href="/sch/03/03010103.jsp" shape="rect"/>
+<area alt="국제문화학과" coords="137,84,191,95" href="/sch/03/03010104.jsp" shape="rect"/>
+<area alt="유아교육과" coords="137,98,182,109" href="/sch/03/03010105.jsp" shape="rect"/>
+<area alt="특수교육과" coords="137,112,182,123" href="/sch/03/03010106.jsp" shape="rect"/>
+<area alt="청소년교육상담학과" coords="137,126,217,137" href="/sch/03/03010107.jsp" shape="rect"/>
+<area alt="연극무용학과" coords="137,140,191,151" href="/sch/03/03010109.jsp" shape="rect"/>
+<area alt="영화애니메이션학과" coords="137,155,217,166" href="/sch/03/03010110.jsp" shape="rect"/>
+<area alt="미디어콘텐츠학과" coords="137,168,209,178" href="/sch/03/03010111.jsp" shape="rect"/>
+<area alt="법학과" coords="241,42,268,53" href="/sch/03/03010207.jsp" shape="rect"/>
+<area alt="행정학과" coords="241,56,277,66" href="/sch/03/03010208.jsp" shape="rect"/>
+<area alt="경찰행정학과" coords="241,70,294,81" href="/sch/03/03010209.jsp" shape="rect"/>
+<area alt="신문방송학과" coords="241,84,294,95" href="/sch/03/03010210.jsp" shape="rect"/>
+<area alt="사회복지학과" coords="241,99,294,109" href="/sch/03/03010211.jsp" shape="rect"/>
+<area alt="글로벌경영대학" coords="321,23,389,34" href="/sch/03/03011100.jsp" shape="rect"/>
+<area alt="경영학과" coords="321,42,358,53" href="/sch/03/03010202.jsp" shape="rect"/>
+<area alt="국제통상학과" coords="321,56,376,66" href="/sch/03/03010203.jsp" shape="rect"/>
+<area alt="관광경영학과" coords="321,70,376,81" href="/sch/03/03010204.jsp" shape="rect"/>
+<area alt="경제금융학과" coords="321,84,376,95" href="/sch/03/03010205.jsp" shape="rect"/>
+<area alt="IT금융경영학과" coords="321,99,385,109" href="/sch/03/03010206.jsp" shape="rect"/>
+<area alt="글로벌문화산업학과" coords="321,113,402,123" href="/sch/03/03010216.jsp" shape="rect"/>
+<area alt="회계학과" coords="321,127,358,137" href="/sch/03/03010608.jsp" shape="rect"/>
+<area alt="자연과학대학" coords="423,23,481,34" href="/sch/03/03010300.jsp" shape="rect"/>
+<area alt="수학과" coords="422,42,448,53" href="/sch/03/03010301.jsp" shape="rect"/>
+<area alt="전자물리학과" coords="422,56,477,67" href="/sch/03/03010302.jsp" shape="rect"/>
+<area alt="화학과" coords="422,70,448,81" href="/sch/03/03010303.jsp" shape="rect"/>
+<area alt="식품영양학과" coords="422,84,476,95" href="/sch/03/03010304.jsp" shape="rect"/>
+<area alt="환경보건학과" coords="422,99,476,109" href="/sch/03/03010305.jsp" shape="rect"/>
+<area alt="생명시스템학과" coords="422,113,485,123" href="/sch/03/03010312.jsp" shape="rect"/>
+<area alt="스포츠과학과" coords="422,127,476,138" href="/sch/03/03010309.jsp" shape="rect"/>
+<area alt="사회체육학과" coords="422,140,476,151" href="/sch/03/03010310.jsp" shape="rect"/>
+<area alt="스포츠의학과" coords="422,154,476,165" href="/sch/03/03010311.jsp" shape="rect"/>
+<area alt="공과대학" coords="508,23,548,34" href="/sch/03/03010400.jsp" shape="rect"/>
+<area alt="컴퓨터소프트웨어공학과" coords="508,42,606,53" href="/sch/03/03010401.jsp" shape="rect"/>
+<area alt="컴퓨터공학과" coords="508,56,563,67" href="/sch/03/03010402.jsp" shape="rect"/>
+<area alt="정보통신공학과" coords="508,70,571,81" href="/sch/03/03010403.jsp" shape="rect"/>
+<area alt="전자공학과" coords="508,84,554,95" href="/sch/03/03010404.jsp" shape="rect"/>
+<area alt="전기공학과" coords="508,99,554,109" href="/sch/03/03010405.jsp" shape="rect"/>
+<area alt="전자정보공학과" coords="508,113,571,123" href="/sch/03/03010406.jsp" shape="rect"/>
+<area alt="나노화학공학과" coords="508,126,571,137" href="/sch/03/03010407.jsp" shape="rect"/>
+<area alt="에너지환경공학과" coords="508,140,580,150" href="/sch/03/03010408.jsp" shape="rect"/>
+<area alt="디스플레이신소재공학과" coords="508,154,606,165" href="/sch/03/03010409.jsp" shape="rect"/>
+<area alt="기계공학과" coords="508,168,554,179" href="/sch/03/03010410.jsp" shape="rect"/>
+<area alt="건축학과" coords="508,182,545,193" href="/sch/03/03010411.jsp" shape="rect"/>
+<area alt="정보보호학과" coords="508,196,562,207" href="/sch/03/03010412.jsp" shape="rect"/>
+<area alt="의료과학대학" coords="629,23,687,34" href="/sch/03/03010500.jsp" shape="rect"/>
+<area alt="의예과" coords="629,42,656,53" href="/sch/03/03010501.jsp" shape="rect"/>
+<area alt="보건행정경영학과" coords="629,56,700,67" href="/sch/03/03010502.jsp" shape="rect"/>
+<area alt="의료생명공학과" coords="629,70,691,81" href="/sch/03/03010503.jsp" shape="rect"/>
+<area alt="의료IT공학과" coords="629,84,683,94" href="/sch/03/03010504.jsp" shape="rect"/>
+<area alt="임상병리학과" coords="629,98,682,109" href="/sch/03/03010505.jsp" shape="rect"/>
+<area alt="직업치료학과" coords="629,113,682,123" href="/sch/03/03010506.jsp" shape="rect"/>
+<area alt="의약공학과" coords="629,126,674,137" href="/sch/03/03010507.jsp" shape="rect"/>
+<area alt="의용메카트로닉스공학과" coords="629,140,726,151" href="http://medis.sch.ac.kr/department/medical-mechatronics-engineering.html" shape="rect" target="_blank"/>
+<area alt="의과대학" coords="745,23,785,34" href="/sch/03/03010600.jsp" shape="rect"/>
+<area alt="의학과" coords="745,42,773,53" href="/sch/03/03010601.jsp" shape="rect"/>
+<area alt="간호학과" coords="745,56,782,67" href="/sch/03/03010602.jsp" shape="rect"/>
+<area alt="닫기" coords="765,202,785,214" onclick="javascript:toggle('1')" shape="rect" style="cursor:pointer"/>
+</map> </div>
+<div class="jwxe_text" style="left:0px; top:40px; height:auto; min-height:15px; width:auto; min-width:100px; ">
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								3. 입수자료의 정리 및 장비 업무
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							</div>
+<div class="jwxe_html" id="menuView2" style="left:782px;top:90px;width:214px;height:268px;">
+<img alt="바로가기" src="/sch/_res/img/img_go_1710.gif" usemap="#Map3"/>
+<map id="Map3" name="Map3">
+<area alt="서울병원" coords="18,42,54,52" href="http://www.schmc.ac.kr/seoul/kor/index.do" shape="rect" target="_blank" title="새창"/>
+<area alt="부천병원" coords="65,42,101,52" href="http://www.schmc.ac.kr/bucheon/kor/index.do" shape="rect" target="_blank" title="새창"/>
+<area alt="천안병원" coords="114,42,148,52" href="http://www.schmc.ac.kr/cheonan/kor/index.do" shape="rect" target="_blank" title="새창"/>
+<area alt="구미병원" coords="159,42,195,52" href="http://www.schmc.ac.kr/gumi/kor/index.do" shape="rect" target="_blank" title="새창"/>
+<area alt="공용자원예약검색" coords="29,98,83,108" href="/pub/01" shape="rect" target="_blank" title="새창"/>
+<area alt="그룹웨어(핸디)" coords="29,112,89,122" href="http://gw.sch.ac.kr" shape="rect" target="_blank" title="새창"/>
+<area alt="대학정보공시" coords="29,127,83,137" href="http://www.academyinfo.go.kr/pubinfo/pubinfo1600/doInit.do?schlId=0000142" shape="rect" target="_blank" title="새창"/>
+<area alt="열린사이버대학교" coords="29,141,101,151" href="http://cons.ocu.ac.kr/" shape="rect" target="_blank" title="새창"/>
+<area alt="예결산공고" coords="29,155,75,165" href="/sch/01/01030100.jsp" shape="rect"/>
+<area alt="원격지원서비스" coords="29,168,92,179" href="http://1.sch.ac.kr" shape="rect" target="_blank" title="새창"/>
+<area alt="웹메일" coords="29,197,57,206" href="http://mail.sch.ac.kr" shape="rect" target="_blank" title="새창"/>
+<area alt="인터넷증명발급" coords="29,210,92,221" href="/minwon" shape="rect" target="_blank" title="새창"/>
+<area alt="향설기념중앙도서관" coords="29,238,109,249" href="http://library.sch.ac.kr/" shape="rect" target="_blank" title="새창"/>
+<area alt="e-포트폴리오" coords="121,98,178,109" href="http://portfolio.sch.ac.kr/" shape="rect" target="_blank" title="새창"/>
+<area alt="LMS" coords="121,112,203,123" href="https://shu.sch.ac.kr" shape="rect" target="_blank" title="새창"/>
+<area alt="닫기" coords="179,241,198,252" onclick="javascript:toggle('2')" shape="rect" style="cursor:pointer"/>
+</map>
+</div>
+<div class="jwxe_text" style="left:0px; top:60px; height:auto; min-height:15px; width:auto; min-width:100px; ">
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								4. 소장자료의 열람 및 대출/반납
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							</div>
+<div class="jwxe_html" style="left:0px;top:90px;width:995px;height:79px;">
+<div style="margin:0 auto; z-index:-1;">
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,0,0" height="115" width="995"> <param name="movie" value="/sch/_res/swf/sub_visual_04.swf"/> <param name="wmode" value="transparent"/> <!--[if !IE]> <--><object data="/sch/_res/swf/sub_visual_04.swf" height="115" type="application/x-shockwave-flash" width="995">
+<p>
+<img alt="나를 위해 디자인된 대학 Unique SCH" src="/sch/_res/img/sub_visual_04.gif"/></p>
+<param name="wmode" value="transparent"/> </object> <!--> <![endif]--></object></div>
+</div>
+<div class="jwxe_text" style="left:0px; top:80px; height:auto; min-height:15px; width:auto; min-width:100px; ">
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								5. 정기간행물의 구독 업무
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							</div>
+<div class="jwxe_html" style="left:29px;top:24px;width:154px;height:50px;">
+<h2><img alt="대학기관 : SOON CHUN HYANG UNIV. " src="/sch/_res/img/ltit_04.gif"/></h2> </div>
+<div class="jwxe_text" style="left:350px; height:auto; min-height:0px; width:auto; min-width:100px; ">
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								6. 전자저널, 웹DB 구독 및 이용 관리
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							</div>
+<div class="jwxe_html" style="left:20px;top:33px;width:730px;height:40px;">
+<h3>
+<img alt="부속/부설기관 중앙도서관" src="/sch/_res/img/h3_61_1.png"/></h3>
+</div>
+<div class="jwxe_text" style="left:350px; top:20px; height:auto; min-height:15px; width:auto; min-width:100px; ">
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								7. 원문복사서비스 및 상호대차 업무
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							</div>
+<div class="jwxe_html" style="left:0px;width:553px;height:158px;">
+<p>
+					본 도서관은 1978년 순천향의과대학 설립과 더불어 실습관(현 의료과학대학) 102호실에 설치된 이후, 1982년 1,050평의 단독 건물로 이전 개관하였다. 현재의 중앙도서관은 1996년 8월에 준공하여 환경친화적인 설계와 빼어난 조형미로 1997년도 '건축문화대상'을 수상한 바 있으며, 연면적 11,746㎡ 규모에 65만여권의 장서를 소장하고 있다. 지하 1층, 지상 5층의 건물로 주제별 자료실(3층, 4층)과 정기간행물실(2층) 및 멀티미디어존(1층)과 북카페(1층)로 구성되어 있으며, 24시간 개방으로 자유로운 학습이 가능한 일반열람실과 대규모 강연 행사가 가능한 동아홀(5층), 정보이용교육실(5층), 소규모스터디룸, 그룹스터디룸, 스터디라운지, 영화관 등을 갖추고 있고 분관으로 의학도서관을 운영하고 있다.</p>
+</div>
+<div class="jwxe_text" style="left:350px; top:40px; height:auto; min-height:15px; width:auto; min-width:100px; ">
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								8. 최신베스트셀러코너 및 취업정보자료코너 운영
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							</div>
+<div class="jwxe_html" style="left:20px;width:499px;height:34px;">
+<h4 class="mb10">
+<img alt="문헌팀" src="/sch/_res/img/h4_130.gif"/></h4>
+<img alt="" src="/sch/_res/img/h4_line.gif"/>
+</div>
+<div class="jwxe_text" style="left:350px; top:60px; height:auto; min-height:15px; width:auto; min-width:100px; ">
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								9. 도서관 이용 교육
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							</div>
+<div class="jwxe_html" style="left:29px;top:50px;width:483px;height:55px;">
+<p>
+					중앙도서관 문헌팀은 중앙도서관의 실행업무를 지원하는 곳으로 멀티미디어존, 북카
+					
+					페, 정기간행물실, 제1자료실, 제2자료실에 관련된 제반 행정 및 서비스를 관장하는 곳이다.</p>
+</div>
+<div class="jwxe_text" style="left:350px; top:80px; height:auto; min-height:15px; width:auto; min-width:100px; ">
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								10. 도서관 시설물 이용 관리
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							</div>
+<div class="jwxe_html" style="left:30px;top:13px;width:207px;height:25px;">
+<p class="list">
+<span class="point b">위치 : </span>향설도서관</p>
+</div>
+<div class="jwxe_text" style="left:0px; height:auto; min-height:15px; width:auto; min-width:100px; ">
+									
+									
+									
+									
+									
+									
+									
+									
+								1. 시설 : PC 55대, 프린터 2대, 스캐너 1대, 무인좌석발급
+
+기 1대,<br/>            32“ LED TV, DVD 플레이어, 2인용 소파
+
+, 위성셋탑박스
+							
+								
+								
+								
+								
+								
+								
+								
+								</div>
+<div class="jwxe_html" style="left:370px;top:13px;width:256px;height:25px;">
+<p class="list point">
+<span class="b point">홈페이지 : </span><a href="https://library.sch.ac.kr" target="_blank" title="새창">https://library.sch.ac.kr</a></p>
+</div>
+<div class="jwxe_text" style="left:0px; top:43px; height:auto; min-height:15px; width:auto; min-width:100px; ">
+									
+									
+									
+									
+									
+									
+									
+									
+								2. 코너 : 멀티미디어존, 인터넷존, 프리미어존
+							
+								
+								
+								
+								
+								
+								
+								
+								</div>
+<div class="jwxe_html" style="left:30px;top:60px;width:160px;height:25px;">
+<p class="list">
+<span class="point b">업무내용</span></p>
+</div>
+<div class="jwxe_text" style="left:0px; top:68px; height:auto; min-height:15px; width:auto; min-width:100px; ">
+									
+									
+									
+									
+									
+									
+									
+									
+								3. 이용
+							
+								
+								
+								
+								
+								
+								
+								
+								</div>
+<div class="jwxe_html" style="left:25px;top:420px;width:182px;height:24px;">
+<h5 class="b">
+<img alt="" src="/sch/_res/img/bul_h5.gif"/>  각 실별 안내</h5>
+</div>
+<div class="jwxe_text" style="left:0px; height:auto; min-height:15px; width:auto; min-width:100px; ">
+										
+										
+										
+										
+										
+										
+										
+										
+									- 무인좌석발급기에서 신분증을 스캔하여 좌석을 배정받은 후 지정된 자리이용(1회 2시간)
+								
+									
+									
+									
+									
+									
+									
+									
+									</div>
+<div class="jwxe_html" style="left:30px;top:13px;width:220px;height:25px;">
+<p class="list">
+<span class="point b">위치 : </span>향설도서관</p>
+</div>
+<div class="jwxe_text" style="left:0px; top:20px; height:auto; min-height:15px; width:auto; min-width:100px; ">
+										
+										
+										
+										
+										
+										
+										
+										
+									- 컨텐츠(동영상 강의), DVD 등 각종 멀티미디어 자료를 제공하며, 인터넷 검색 및 문서작성 등 <br/>  자유로운 정보 활동 위한 공간<br/>
+</div>
+<div class="jwxe_html" style="left:370px;top:13px;width:256px;height:25px;">
+<p class="list point">
+<span class="b point">홈페이지 : </span><a href="https://library.sch.ac.kr" target="_blank" title="새창">https://library.sch.ac.kr</a></p>
+</div>
+<div class="jwxe_text" style="left:0px; height:auto; min-height:15px; width:auto; min-width:100px; ">
+									
+									
+									
+									
+									
+									
+									
+									
+								1. 시설 : 최신 베스트셀러 및 취업 관련 도서를 이용할 수 있으며, 자유로운 정보 활동을 할 수 있는 공간
+							
+								
+								
+								
+								
+								
+								
+								
+								</div>
+<div class="jwxe_html" style="left:0px;width:160px;height:25px;">
+<p class="list">
+<span class="point b">멀티미디어존(1층) </span></p>
+</div>
+<div class="jwxe_text" style="left:0px; top:20px; height:auto; min-height:15px; width:auto; min-width:100px; ">
+									
+									
+									
+									
+									
+									
+									
+									
+								2. 이용 : 1인 2책 7일간의 별도 대출규정 적용, 반납 연체시 도서관 전체 자료 대출 제한
+							
+								
+								
+								
+								
+								
+								
+								
+								</div>
+<div class="jwxe_html" style="left:0px;width:160px;height:25px;">
+<p class="list">
+<span class="point b">북카페(1층) </span></p>
+</div>
+<div class="jwxe_text" style="left:0px; height:auto; min-height:15px; width:auto; min-width:100px; ">
+									
+									
+									
+									
+									
+									
+									
+									
+									1. 자료 : 국내외 학술지, 전자저널, 웹DB, 국내 교양잡지, 학위논문, 신문, 참고자료(백과사전, 사전, 앨범 등) 소장
+								
+								
+								</div>
+<div class="jwxe_html" style="left:0px;width:160px;height:25px;">
+<p class="list">
+<span class="point b">정기간행물실(2층) </span></p>
+</div>
+<div class="jwxe_text" style="left:0px; top:20px; height:auto; min-height:15px; width:auto; min-width:100px; ">
+									
+									
+									2. 업무 : 정기간행물의 구독, 전자저널•웹DB 구독 업무, 원문복사서비스 및 상호대차 서비스 제공, <span style="line-height: 19.2px; background-color: initial;">국회도서관 원문 열람</span><br/><br/><br/>
+</div>
+<div class="jwxe_html" style="left:0px;width:160px;height:25px;">
+<p class="list">
+<span class="point b">제1자료실(3층) </span></p>
+</div>
+<div class="jwxe_text" style="left:0px; height:auto; min-height:15px; width:auto; min-width:100px; ">
+									
+									
+									
+									
+									
+									
+									
+									
+									1. 자료 : 총류/전산, 사회과학, 자연과학, 기술과학, 예•체능, 의학자료 등 소장 
+								
+								
+								</div>
+<div class="jwxe_html" style="left:0px;width:160px;height:25px;">
+<p class="list">
+<span class="point b">향설고시원(5층) </span></p>
+</div>
+<div class="jwxe_text" style="left:0px; top:20px; height:auto; min-height:15px; width:auto; min-width:100px; ">
+									
+									
+									2. 업무 : 휴•복학 관련 업무, 타대학열람의뢰서 발급, 분실도서 변상, 연체자 관리 관련 업무 
+								
+								
+								
+								
+								
+								
+								
+								
+								</div>
+<div class="jwxe_html" style="left:0px;width:160px;height:25px;">
+<p class="list">
+<span class="point b">영화관(1층) </span></p>
+</div>
+<div class="jwxe_text" style="left:0px; height:auto; min-height:15px; width:auto; min-width:100px; ">
+									
+									
+									1. 시설 : 재학생 중 각종 국가고시를 준비하는 학생들에게 제공하는 효율적인 학습 공간
+								
+								
+								</div>
+<div class="jwxe_html" style="left:0px;width:160px;height:25px;">
+<p class="list">
+<span class="point b">스터디 라운지(1층) </span></p>
+</div>
+<div class="jwxe_text" style="left:0px; top:20px; height:auto; min-height:15px; width:auto; min-width:100px; ">
+									
+									
+									
+									
+									
+									
+									
+									
+									2. 이용 : 학생팀의 승인을 받아 사용
+								
+								
+								</div>
+<div class="jwxe_html" style="left:0px;width:160px;height:25px;">
+<p class="list">
+<span class="point b">그룹스터디룸 1, 2(1층) </span></p>
+</div>
+<div class="jwxe_text" style="left:0px; height:auto; min-height:15px; width:auto; min-width:100px; ">
+									
+									
+									1. 시설 : 고화질의 디지털 시네마 시스템으로 최고의 영상과 음향을 감상할 수 있는 소극장
+								
+								
+								</div>
+<div class="jwxe_html" style="left:0px;width:160px;height:25px;">
+<p class="list">
+<span class="point b">스터디룸 1~4(1층) </span></p>
+</div>
+<div class="jwxe_text" style="left:0px; top:20px; height:auto; min-height:15px; width:auto; min-width:100px; ">
+									
+									
+									2. 이용 : 스터디룸 및 영화관 예약을 통해 신청
+								
+								
+								</div>
+<div class="jwxe_html" style="left:0px;width:160px;height:25px;">
+<p class="list">
+<span class="point b">제2자료실(4층) </span></p>
+</div>
+<div class="jwxe_text" style="left:0px; height:auto; min-height:15px; width:auto; min-width:100px; ">
+									
+									
+									1. 시설 : 다양한 학습욕구를 충족하기 위한 노트북 이용 및 자유로운 휴식공간
+								
+								
+								</div>
+<div class="jwxe_html" style="left:0px;width:160px;height:25px;">
+<p class="list">
+<span class="point b">동아홀(5층) </span></p>
+</div>
+<div class="jwxe_text" style="left:0px; top:20px; height:auto; min-height:15px; width:auto; min-width:100px; ">
+									
+									
+									2. 이용 : 복사기 1대, 무선인터넷 가능, 자유롭게 이용
+								
+								
+								</div>
+<div class="jwxe_html" style="left:0px;width:160px;height:25px;">
+<p class="list">
+<span class="point b">정보이용교육실(5층) </span></p>
+</div>
+<div class="jwxe_text" style="left:0px; height:auto; min-height:15px; width:auto; min-width:100px; ">
+									
+									
+									1. 시설 : 교수 및 학생들의 소규모 그룹별 스터디 또는 주제 토론을 위한 공간
+								
+								
+								</div>
+<div class="jwxe_html" style="left:0px;width:124px;height:34px;">
+<h4>
+<img alt="SCH 순천향대학교" src="/sch/_res/img/flogo.gif"/></h4>
+</div>
+<div class="jwxe_text" style="left:0px; top:20px; height:auto; min-height:15px; width:auto; min-width:100px; ">
+									
+									
+									2. 이용 : 스터디룸 및 영화관 예약을 통해 신청
+								
+								
+								</div>
+<div class="jwxe_html" style="left:140px;width:362px;height:16px;">
+<address>
+<img alt="[31538]충남 아산시 신창면 순천향로 22  TEL .041-530-1114, FAX.041-542-4615" src="/sch/_res/img/address.gif"/></address>
+</div>
+<div class="jwxe_text" style="left:0px; height:auto; min-height:15px; width:auto; min-width:100px; ">
+									
+									
+									1. 시설 : 교수 및 학생들의 소규모 그룹별 스터디 또는 주제 토론을 위한 공간
+								
+								
+								</div>
