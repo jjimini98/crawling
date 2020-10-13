@@ -1,6 +1,7 @@
 # textmining project 
-crawling soonchunhyang university homepage and everytime, soonchunhyang university homepage
 
+1. crawling soonchunhyang university homepage and everytime, soonchunhyang university homepage
+2. EDA hotel_review data 
 
 
 - IDE : pycharm professional 2020.2
