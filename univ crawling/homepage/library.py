@@ -23,7 +23,7 @@ li.append(introduction)
 li.append(contents)
 
 
-f = open('C:\\Users\\jimin\\PycharmProjects\\crawling\\library.txt','w',encoding='utf-8')
+f = open('/homepage/library.txt', 'w', encoding='utf-8')
 for c in li:
     f.write(c)
     f.write('\n')

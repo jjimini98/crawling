@@ -4,7 +4,7 @@ import time
 from bs4 import BeautifulSoup
 
 # 에브리타임 로그인 정보
-driver = webdriver.Chrome("../chromedriver.exe")
+driver = webdriver.Chrome("chromedriver.exe")
 
 driver.get("https://www.everytime.kr/login")
 html = driver.page_source

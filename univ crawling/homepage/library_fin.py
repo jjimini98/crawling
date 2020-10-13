@@ -33,7 +33,7 @@ for a,b in zip(one,two):
 
 
 
-f = open('C:\\Users\\jimin\\PycharmProjects\\crawling\\homepage\\library_fin.txt','w',encoding='utf-8')
+f = open('/univ crawling/homepage/library_fin.txt', 'w', encoding='utf-8')
 for c in li:
     f.write(c)
     f.write('\n')

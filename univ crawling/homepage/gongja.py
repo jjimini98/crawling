@@ -15,7 +15,7 @@ dele = re.sub('<.+?>','',dele,0).strip()
 
 li.append(dele)
 
-f = open('/gongja.txt', 'w', encoding='utf-8')
+f = open('gongja.txt', 'w', encoding='utf-8')
 for c in li:
     f.write(c)
     f.write('\n')
