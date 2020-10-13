@@ -1,0 +1,46 @@
+Index: everytime2019/201901.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- everytime2019/201901.py	(date 1601965234283)
++++ everytime2019/201901.py	(date 1601965234283)
+@@ -0,0 +1,13 @@
++from bs4 import BeautifulSoup
++import requests
++from urllib.request import urlopen
++
++url ="https://everytime.kr/389132/v/60376451"
++result = urlopen(url)
++html = result.read()
++
++li = []
++soup = BeautifulSoup(html,'html.parser')
++
++tag = soup.find_all("article")
++print(tag)
+Index: everytime2019/seleniumtest.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- everytime2019/seleniumtest.py	(date 1602338201733)
++++ everytime2019/seleniumtest.py	(date 1602338201733)
+@@ -0,0 +1,16 @@
++from selenium import webdriver
++from selenium.webdriver.common.keys import Keys
++import time
++
++driver = webdriver.Chrome("../chromedriver.exe")  # chrome version 85에 맞는 chrome driver 설치
++
++driver.get("https://everytime.kr/login")
++delay =3
++
++driver.implicitly_wait(delay)
++
++
++# 이름에 맞는걸 넣어야함.  막넣으면 안된다..
++driver.find_element_by_name('userid').send_keys('jjimini98')
++driver.find_element_by_name('password').send_keys('dbwlals!!77')
++driver.find_element_by_xpath('''//*[@id="container"]/form/p[1]/input''').click()
+\ No newline at end of file
