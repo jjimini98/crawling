@@ -5,9 +5,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="baaa2d32-c65e-45e9-9fdc-6730845705b2" name="Default Changelist" comment="proceeding EDA">
+    <list default="true" id="baaa2d32-c65e-45e9-9fdc-6730845705b2" name="Default Changelist" comment="edited README.md">
       <change afterPath="$PROJECT_DIR$/hotel_review/hotels_reviews.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hotel_review/EDA.py" beforeDir="false" afterPath="$PROJECT_DIR$/hotel_review/EDA.py" afterDir="false" />
     </list>
     <list id="57f45ee3-81a5-4936-9308-94262583cc8c" name="make new directory &quot;hotel_review&quot; and upload hotel_review.csv data" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -457,29 +458,29 @@
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1602616939751" />
     <state x="686" y="211" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1602598226302" />
-    <state width="1129" height="357" key="GridCell.Tab.0.bottom" timestamp="1602614247456">
+    <state width="1095" height="208" key="GridCell.Tab.0.bottom" timestamp="1602619769906">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1177" height="335" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1602392110347" />
-    <state width="1129" height="357" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602614247456" />
+    <state width="1095" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602619769906" />
     <state width="1176" height="447" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602602380591" />
-    <state width="1129" height="357" key="GridCell.Tab.0.center" timestamp="1602614247455">
+    <state width="1095" height="208" key="GridCell.Tab.0.center" timestamp="1602619769905">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1177" height="335" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1602392110347" />
-    <state width="1129" height="357" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1602614247455" />
+    <state width="1095" height="208" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1602619769905" />
     <state width="1176" height="447" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602602380591" />
-    <state width="1129" height="357" key="GridCell.Tab.0.left" timestamp="1602614247455">
+    <state width="1095" height="208" key="GridCell.Tab.0.left" timestamp="1602619769904">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1177" height="335" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1602392110347" />
-    <state width="1129" height="357" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1602614247455" />
+    <state width="1095" height="208" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1602619769904" />
     <state width="1176" height="447" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602602380591" />
-    <state width="1129" height="357" key="GridCell.Tab.0.right" timestamp="1602614247455">
+    <state width="1095" height="208" key="GridCell.Tab.0.right" timestamp="1602619769905">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1177" height="335" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1602392110347" />
-    <state width="1129" height="357" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1602614247455" />
+    <state width="1095" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1602619769905" />
     <state width="1176" height="447" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602602380591" />
     <state width="1053" height="261" key="GridCell.Tab.1.bottom" timestamp="1601583134161">
       <screen x="0" y="0" width="1536" height="824" />
@@ -505,10 +506,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="598" y="280" key="MultipleFileMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602598447969" />
-    <state x="277" y="57" key="SettingsEditor" timestamp="1602334468998">
+    <state x="277" y="57" key="SettingsEditor" timestamp="1602619586443">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1602334468998" />
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1602619586443" />
     <state width="498" height="446" key="SwitcherDM" timestamp="1602336790372">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -530,10 +531,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="-6" y="0" width="781" height="830" maximized="true" key="dock-window-1/0.0.1536.824@0.0.1536.824" timestamp="1601544431050" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1601550534216">
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1602619385334">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1601550534216" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1602619385334" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/crawling$leesoonsin.coverage" NAME="leesoonsin Coverage Results" MODIFIED="1601552574588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -558,7 +559,7 @@
     <SUITE FILE_PATH="coverage/textminingproject$EDA.coverage" NAME="EDA Coverage Results" MODIFIED="1602611574009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hotel_review/EDA" />
     <SUITE FILE_PATH="coverage/crawling$machine.coverage" NAME="machine Coverage Results" MODIFIED="1601552005418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/crawling$gongja.coverage" NAME="gongja Coverage Results" MODIFIED="1601552416123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/textminingproject$EDA__1_.coverage" NAME="EDA (1) Coverage Results" MODIFIED="1602614247432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hotel_review" />
+    <SUITE FILE_PATH="coverage/textminingproject$EDA__1_.coverage" NAME="EDA (1) Coverage Results" MODIFIED="1602619769882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hotel_review" />
     <SUITE FILE_PATH="coverage/crawling$email__1_.coverage" NAME="email (1) Coverage Results" MODIFIED="1601618027149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/email" />
     <SUITE FILE_PATH="coverage/crawling$lifelong.coverage" NAME="lifelong Coverage Results" MODIFIED="1601571553871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/crawling$library__1_.coverage" NAME="library (1) Coverage Results" MODIFIED="1601624384076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homepage" />
