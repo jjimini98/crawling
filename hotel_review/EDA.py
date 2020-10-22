@@ -1,9 +1,10 @@
 import pandas as pd
+import csv
 import matplotlib.pyplot as plt
 
-# 데이터 가져오기  데이터가 커서 그런지 개느리다
+# 데이터 가져오기
 
-origin_hotel = pd.read_csv('./hotels_reviews.csv') #<class 'pandas.core.frame.DataFrame'>
+origin_hotel = pd.read_csv('./Hotel_Reviews.csv',error_bad_lines=False) #<class 'pandas.core.frame.DataFrame'>
 hotel= origin_hotel.copy()
 
 # hotel 데이터의 전체적인 정보 출력
