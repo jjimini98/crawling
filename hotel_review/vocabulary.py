@@ -15,7 +15,7 @@ negtxt = neg.to_csv('neg.txt', index = False, header = None, sep = "," )
 #부정적인 리뷰 txt 데이터를 문장단위로 읽어온다.
 n = open("./neg.txt")
 lines =n.readlines()
-neglines = str(lines)
+neglines = str(lines).lower()
 
 negative = neglines.replace(",", "").replace("\n", "").replace(".", "").replace("'","").replace("?","").replace("!","").replace("\\n","").replace("[","").replace("]","")
 negative = negative.split(" ")
@@ -27,9 +27,9 @@ neg_voca = set(negative) #중복제거
 #긍정적인 리뷰
 p = open("./pos.txt")
 lines = p.readlines()
-positive = str(lines).lower()
+poslines = str(lines).lower()
 
-positive = positive.replace(",", "").replace("\n", "").replace(".", "").replace("'","").replace("?","").replace("!","").replace("\\n","").replace("[","").replace("]","")
+positive = poslines.replace(",", "").replace("\n", "").replace(".", "").replace("'","").replace("?","").replace("!","").replace("\\n","").replace("[","").replace("]","")
 positive = positive.split(" ")
 pos_voca = set(positive) #중복제거
 # print(len(pos_voca)) #64581
@@ -46,8 +46,8 @@ pos_encoded = [common_vocab.index(x) if x in common_vocab else None for x in pos
 
 neg_encoded = [common_vocab.index(x)if x in common_vocab else None for x in neg_voca]
 
-for y in zip(neg_encoded, neg_voca):
-    print(y)
+# for y in zip(neg_encoded, neg_voca):
+#     print(y)
 
 
 #  방법 1 길이를 동일하게 맞춰주기
@@ -58,18 +58,13 @@ for y in zip(neg_encoded, neg_voca):
 # print(len(neg_encoded)) #31646
 
 
-import nltk
-import string
-import os
-
 from sklearn.feature_extraction.text import TfidfVectorizer
-from nltk.stem.porter import PorterStemmer
+
 
 token_dict = dict()
-t1 = "I love this hotel. so I will reservation next time"
-t2 = "I am very disappointed. because of staff's behavior"
-token_dict['t1'] = t1
-token_dict['t2'] = t2
+
+token_dict['pos'] = poslines
+token_dict['neg'] = neglines
 
 tfidf = TfidfVectorizer()
 tfs = tfidf.fit_transform(token_dict.values())
