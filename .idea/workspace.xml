@@ -5,12 +5,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="baaa2d32-c65e-45e9-9fdc-6730845705b2" name="Default Changelist" comment="proceeding stemming.py">
+    <list default="true" id="baaa2d32-c65e-45e9-9fdc-6730845705b2" name="Default Changelist" comment="edited README.md">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hotel_review/EDA.py" beforeDir="false" />
     </list>
-    <list id="99b9dddf-61fc-4bca-842b-553982f26e53" name="proceeding stemming.py" comment="proceeding stemming.py">
-      <change afterPath="$PROJECT_DIR$/hotel_review/hotel.txt" afterDir="false" />
-    </list>
+    <list id="57f45ee3-81a5-4936-9308-94262583cc8c" name="make new directory &quot;hotel_review&quot; and upload hotel_review.csv data" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,7 +37,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="stemming/stopword" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -56,7 +55,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../codingstudy" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -77,12 +76,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hotel_review" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hotel_review/prac.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -99,7 +98,7 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hotel_review" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
@@ -243,6 +242,7 @@
       <workItem from="1602608735947" duration="6637000" />
       <workItem from="1603462580903" duration="29000" />
       <workItem from="1603968742676" duration="1400000" />
+      <workItem from="1604032094490" duration="51000" />
     </task>
     <task id="LOCAL-00001" summary="soonchunhyang university libaray crawling">
       <created>1601392162869</created>
@@ -461,11 +461,15 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1602338778590" />
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1602852595456">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1604032143018">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1602852595456" />
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1604032143018" />
     <state x="686" y="211" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1602598226302" />
+    <state x="728" y="386" key="Github.CreatePullRequestDialog" timestamp="1603975845130">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="728" y="386" key="Github.CreatePullRequestDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603975845130" />
     <state width="1493" height="267" key="GridCell.Tab.0.bottom" timestamp="1603424012650">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -518,17 +522,21 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="807" y="432" key="VCS.ChangelistChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1602601626735" />
-    <state x="451" y="183" key="Vcs.Push.Dialog.v2" timestamp="1603968797098">
+    <state x="451" y="183" key="Vcs.Push.Dialog.v2" timestamp="1603975872302">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1603421811787" />
-    <state x="451" y="183" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1603968797098" />
+    <state x="451" y="183" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1603975872302" />
     <state x="620" y="343" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1602620516851" />
     <state x="775" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602598108758" />
     <state x="-6" y="0" width="781" height="830" maximized="true" key="dock-window-1" timestamp="1601544431050">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="-6" y="0" width="781" height="830" maximized="true" key="dock-window-1/0.0.1536.824@0.0.1536.824" timestamp="1601544431050" />
+    <state x="735" y="232" key="git4idea.branch.GitSmartOperationDialog" timestamp="1603975802958">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="735" y="232" key="git4idea.branch.GitSmartOperationDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603975802958" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1602779574450">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
