@@ -3,7 +3,7 @@ import pandas as pd
 
 from afinn import Afinn
 
-data = pd.read_csv("./hotel_edit.csv")
+data = pd.read_csv("../hotel_edit.csv")
 
 #긍정과 부정 리뷰를 띄어쓰기로 합친 새로운 열 total_review 생성
 data['total_review'] = data['Negative_Review']+" "+data['Positive_Review']
@@ -27,7 +27,7 @@ afinn = Afinn()
 
 # 새로운 파일 edit_hotel_afinn.csv 생성 후 한 문장씩 읽어들임.
 # 맨 처음 실행해서 파일을 만들고 그다음부터는 그냥 주석처리해서 쓰심 됩니다
-re_data= open("./edit_hotel_afinn.csv", "w")
+re_data= open("../edit_hotel_afinn.csv", "w")
 for x in data['total_review']:
     re_data.writelines(x)
     re_data.write("\n")

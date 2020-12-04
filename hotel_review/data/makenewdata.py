@@ -15,4 +15,4 @@ hotel_0 = hotel.drop(['Hotel_Address','Additional_Number_of_Scoring','Review_Dat
 
 hotel_0 = hotel_0.dropna()
 
-hotel_0.to_csv('hotel_0.csv',mode= 'a')
+hotel_0.to_csv('hotel.csv',mode= 'a')

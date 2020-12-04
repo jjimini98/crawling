@@ -13,7 +13,7 @@ negtxt = neg.to_csv('neg.txt', index = False, header = None, sep = "," )
 
 
 #부정적인 리뷰 txt 데이터를 문장단위로 읽어온다.
-n = open("./neg.txt")
+n = open("../neg.txt")
 lines =n.readlines()
 neglines = str(lines).lower()
 
@@ -25,7 +25,7 @@ neg_voca = set(negative) #중복제거
 # print(len(neg_voca)) # 69875
 
 #긍정적인 리뷰
-p = open("./pos.txt")
+p = open("../pos.txt")
 lines = p.readlines()
 poslines = str(lines).lower()
 
