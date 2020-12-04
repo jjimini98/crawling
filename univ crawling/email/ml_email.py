@@ -2,6 +2,8 @@ from bs4 import BeautifulSoup
 import requests
 
 #미디어랩스 각 학과 교수 이메일 크롤링
+#에러나는 코드는 일단 주석처리
+
 
 
 #크롤링 된 텍스트를 string 으로 변환하고 슬래시 제거
@@ -32,7 +34,7 @@ li.append(change(leejungyeop))
 li.append(change(leeyoungsoo))
 
 
-f = open('/ml_email\\kcon_email.txt', 'w', encoding='utf-8')
+f = open('./kcon_email.txt', 'w', encoding='utf-8')
 for c in li:
     f.write(c)
     f.write('\n')
@@ -62,14 +64,17 @@ li.append(change(leehyunwoo))
 li.append(change(parkkipyo))
 li.append(change(parkjuyoung))
 li.append(change(choiyoungsik))
-li.append(change(jinjooyoung))
-li.append(change(yoonmison))
-li.append(change(paulcunningham))
-li.append(change(aronpooley))
-li.append(change(jpzukauskas))
+
+# li.append(change(jinjooyoung))
 
 
-f = open('/ml_email\\eng_email.txt', 'w', encoding='utf-8')
+# li.append(change(yoonmison))
+# li.append(change(paulcunningham))
+# li.append(change(aronpooley))
+# li.append(change(jpzukauskas))
+
+
+f = open('./eng_email.txt', 'w', encoding='utf-8')
 for c in li:
     f.write(c)
     f.write('\n')
@@ -95,7 +100,7 @@ li.append(change(imsanghun))
 li.append(change(leejongchan))
 
 
-f = open('/ml_email\\china_email.txt', 'w', encoding='utf-8')
+f = open('./china_email.txt', 'w', encoding='utf-8')
 for c in li:
     f.write(c)
     f.write('\n')
@@ -126,12 +131,12 @@ li.append(change(simmisun))
 li.append(change(wonjongwon))
 li.append(change(jungyoonkyung))
 li.append(change(hongkyungsoo))
-li.append(change(choijunhyuk))
-li.append(change(gigookguan))
-li.append(change(kimwoochul))
+# li.append(change(choijunhyuk))
+# li.append(change(gigookguan))
+# li.append(change(kimwoochul))
 
 
-f = open('/ml_email\\media_email.txt', 'w', encoding='utf-8')
+f = open('./media_email.txt', 'w', encoding='utf-8')
 for c in li:
     f.write(c)
     f.write('\n')
@@ -160,7 +165,7 @@ li.append(change(parkjongki))
 li.append(change(imhyunsoo))
 
 
-f = open('/ml_email\\architecture_email.txt', 'w', encoding='utf-8')
+f = open('./architecture_email.txt', 'w', encoding='utf-8')
 for c in li:
     f.write(c)
     f.write('\n')
@@ -183,7 +188,7 @@ li.append(change(hongsoongu))
 li.append(change(kimleejin))
 li.append(change(kimjungki))
 
-f = open('/ml_email\\ani_email.txt', 'w', encoding='utf-8')
+f = open('./ani_email.txt', 'w', encoding='utf-8')
 for c in li:
     f.write(c)
     f.write('\n')
@@ -207,10 +212,10 @@ kimjunghyun =soup.select("#department-professorS > div > div:nth-child(6) > div.
 li.append(change(chojungki))
 li.append(change(woojiyoung))
 li.append(change(jungyoungsup))
-li.append(change(kimyoungmin))
-li.append(change(kimjunghyun))
+# li.append(change(kimyoungmin))
+# li.append(change(kimjunghyun))
 
-f = open('/ml_email\\bigdata_email.txt', 'w', encoding='utf-8')
+f = open('./bigdata_email.txt', 'w', encoding='utf-8')
 for c in li:
     f.write(c)
     f.write('\n')
@@ -236,7 +241,7 @@ li.append(change(kimdaehee))
 li.append(change(kimdongmin))
 li.append(change(leekyuhang))
 
-f = open('/ml_email\\iot_email.txt', 'w', encoding='utf-8')
+f = open('./iot_email.txt', 'w', encoding='utf-8')
 for c in li:
     f.write(c)
     f.write('\n')
@@ -263,7 +268,7 @@ li.append(change(leeyoungwoo))
 li.append(change(joyonghyun))
 
 
-f = open('/ml_email\\energy_email.txt', 'w', encoding='utf-8')
+f = open('./energy_email.txt', 'w', encoding='utf-8')
 for c in li:
     f.write(c)
     f.write('\n')
@@ -290,7 +295,7 @@ li.append(change(parksungkeun))
 li.append(change(songsinhyung))
 li.append(change(kimtaeyoon))
 
-f = open('/ml_email\\smart_email.txt', 'w', encoding='utf-8')
+f = open('./smart_email.txt', 'w', encoding='utf-8')
 for c in li:
     f.write(c)
     f.write('\n')
@@ -316,9 +321,9 @@ li.append(change(minkyungwon))
 li.append(change(byunjaeran))
 li.append(change(wonjongwon))
 li.append(change(kimkyujong))
-li.append(change(leejinwook))
+# li.append(change(leejinwook))
 
-f = open('/ml_email\\performance_email.txt', 'w', encoding='utf-8')
+f = open('./performance_email.txt', 'w', encoding='utf-8')
 for c in li:
     f.write(c)
     f.write('\n')
