@@ -9,3 +9,6 @@
 - package : beautifulsoup4 
 - package : requests 
 - package : selenium, webdriver= 'chrome'
+
+
+ https://gitlab.com/jjimini98/tmtp2020-2
